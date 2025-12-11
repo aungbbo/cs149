@@ -1,0 +1,20 @@
+ 3388  cd cs149/
+ 3389  clear
+ 3390  git init
+ 3391  gst
+ 3392  cd ..
+ 3393  clear
+ 3394  cd cs149/
+ 3395  clear
+ 3396  mkdir WS_bonus
+ 3397  cd WS_bonus
+ 3398  clear
+ 3399  git add .
+ 3400  wget -O out.pdf https://tinyurl.com/yy94jltt
+ 3401  lla
+ 3402  cat out.pdf
+ 3403  clear
+ 3404  ls -latr
+ 3405  history > cmd.log
+ 3406  lla
+ 3407  cat cmd.log
