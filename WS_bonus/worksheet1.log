@@ -1,0 +1,40 @@
+ 3430* make qemu
+ 3431* ls
+ 3432* git commit -am 'my solution for util lab exercise 1'\n
+ 3433* cd user
+ 3434* ls
+ 3435* vim usertests.c
+ 3436* code usertests.c
+ 3437* make qemu
+ 3438* cd ..
+ 3439* make clean
+ 3440* make qemu
+ 3441  ls
+ 3442  clear
+ 3443  cd
+ 3444  cd xv6-labs-2023/
+ 3445  gst
+ 3446  git commit -am 'my solution for util lab exercise 1'\n
+ 3447  cd user
+ 3448  lla
+ 3449  cat sleep.c
+ 3450  code sleep.c
+ 3451  make qemu
+ 3452  cd ..
+ 3453  make clean
+ 3454  make qemu
+ 3455* gst
+ 3456* sleep 10
+ 3457* ./grade-lab-util sleep
+ 3458* make GRADEFLAGS=sleep grade
+ 3459* history > worksheet1.log
+ 3460* cat worksheet1.log
+ 3461* history | tail -n 38 > cmd.log\n
+ 3462* gst
+ 3463* history | tail -n 38 > worksheet1log
+ 3464* cp user/sleep.c ~/Documents/Fall\ 25/CS\ 149/cs149/WS_bonus/
+ 3465* cd
+ 3466* cd Documents/Fall\ 25/CS\ 149/cs149/WS_bonus/
+ 3467* lla
+ 3468  cat worksheet1.log
+ 3469  rm worksheet1.log
